@@ -1,0 +1,5 @@
+version: '3.4'
+services:
+  zabbix-web-nginx-mysql:
+    ports:
+      - 8081:80
